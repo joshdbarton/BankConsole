@@ -16,6 +16,7 @@ namespace BankConsole
             catch (IndexOutOfRangeException)
             {
                 Console.WriteLine("Please supply a bank name!");
+                return;
             }
             while (true)
             {

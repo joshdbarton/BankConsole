@@ -16,5 +16,10 @@ namespace BankConsole
                 return $"{Street}\n{Apt}\n{City}, {State} {Zip}";
             }
         }
+
+        public override string ToString()
+        {
+            return FullAddress;
+        }
     }
 }

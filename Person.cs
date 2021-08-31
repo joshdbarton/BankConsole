@@ -19,7 +19,7 @@ namespace BankConsole
         {
             get
             {
-                return $"{FullName}\n{Address.FullAddress}";
+                return $"{FullName}\n{Address}";
             }
         }
     }
