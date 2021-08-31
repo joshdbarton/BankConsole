@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ClassesRehash
+namespace BankConsole
 {
     public class Bank
     {

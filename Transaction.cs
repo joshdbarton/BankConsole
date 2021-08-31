@@ -1,4 +1,4 @@
-namespace ClassesRehash
+namespace BankConsole
 {
     public class Transaction
     {
